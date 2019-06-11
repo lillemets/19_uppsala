@@ -219,7 +219,7 @@ Account for various differences between regions.
 
 # That's all!
 
-For details see [github.com/lillemets/19_uppsala](https://github.com/lillemets/19_uppsala)
+For details see [github.com/lillemets/19_uppsala](https://github.com/lillemets/19_uppsala).
 
 # References 
 
