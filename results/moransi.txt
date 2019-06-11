@@ -1,0 +1,13 @@
+
+	Moran I test under randomisation
+
+data:  paySf$eafrd.cap  
+weights: spatWts  n reduced by no-neighbour observations
+  
+
+Moran I statistic standard deviate = 10.116, p-value < 2.2e-16
+alternative hypothesis: greater
+sample estimates:
+Moran I statistic       Expectation          Variance 
+      0.458045643      -0.004048583       0.002086784 
+
